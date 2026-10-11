@@ -1,0 +1,6 @@
+{
+  "name": "CognifyX",
+  "description": "AI-Powered Adaptive Learning Platform for college students preparing for exams. Study smarter. Prepare with purpose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
